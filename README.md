@@ -10,7 +10,8 @@ An interactive technical analysis dashboard for FAANG stocks (Apple, Amazon, Goo
 
 
 
-The dashboard will open automatically in your default browser at https://ehpsntlc4njrffwa5uiijf.streamlit.app/ 
+The dashboard will open automatically in your default browser
+https://ehpsntlc4njrffwa5uiijf.streamlit.app/ 
 
 ## 📊 Features
 
