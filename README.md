@@ -59,6 +59,7 @@ financial-dashboard/
 │   └── faang_stock_prices.csv     # Stock data with indicators
 └── src/
     ├── __init__.py
+    ├── analysis.py                 # AI-driven insights
     ├── data_loader.py              # CSV data loading
     ├── metrics.py                  # Financial calculations
     └── visualizations.py           # Plotly charts
