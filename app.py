@@ -392,7 +392,7 @@ with col_s3:
 st.markdown('<hr class="soft-divider">', unsafe_allow_html=True)
 st.markdown("""
 <div class="section-title"><span class="dot" style="background:#6366f1;"></span> Deep Insights</div>
-<div class="section-desc">AI-driven analysis of trend, volatility, and momentum context.</div>
+<div class="section-desc">Driven analysis of trend, volatility, and momentum context.</div>
 """, unsafe_allow_html=True)
 
 try:
