@@ -181,7 +181,7 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
 st.markdown("""
 <div class="dash-header">
     <h1>FAANG Stock Analysis Dashboard</h1>
-    <p>Technical Analysis & Risk Assessment — Apple · Amazon · Google · Meta · Microsoft</p>
+    <p>Technical Analysis & Risk Assessment — Apple · Amazon · Google · Meta · Microsoft . Nvidia</p>
 </div>
 """, unsafe_allow_html=True)
 
